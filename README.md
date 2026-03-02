@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/Nelfander/Playingfield/raw/main/.github/assets/some-screenshot-or-gif.gif" alt="Playingfield demo" width="600"/>
+  <h1>Hey, I'm Konstantinos 👋</h1>
+  
+  <p><strong>CS Graduate & Backend Engineer specializing in Go, PostgreSQL, and Real-Time Systems.</strong> building real-time collaborative tools.<br>
+ Leveraging a background in IT Operations and Customer Support, I bridge the gap between complex system architecture and user-centric reliability. Recently pivoted to specialized backend engineering, learningg go for 60 days while working on another job to architect and deploy Playingfield—a production-grade, WebSocket-driven collaboration platform. I focus on building scalable, domain-driven services that solve real-world synchronization challenges.</p>
 
-<!--
-**Nelfander/Nelfander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <a href="https://d3tucazxq1wbf6.cloudfront.net">Live Demo: app.playingfield.com</a> • 
+    <a href="https://github.com/Nelfander/Playingfield">Flagship Project</a> • 
+    <a href="mailto:kwstasef@hotmail.com">Email</a> • 
+    <a href="https://linkedin.com/in/kostas-efraimidis-872002162/">LinkedIn</a>
+  </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ What I'm good at
+- **Backend**: Go (Echo, concurrency, WebSockets), PostgreSQL (sqlc), MinIO/S3
+- **Real-time**: WebSocket hubs, heartbeats, graceful shutdown
+- **Infra/Observability**: Docker, Prometheus, Grafana
+- **Frontend basics**: React + TypeScript + Vite
+
+### 🔥 Top Project
+**[Playingfield](https://github.com/Nelfander/Playingfield)**  
+Real-time collaborative task manager (Kanban + chat + file storage)  
+- Live: https://app.playingfield.com (sign up & test instantly)  
+- Features: RBAC, atomic uploads, Prometheus metrics, full Docker stack  
+- Built after just 2 months of learning Go while maintening full-time Job
+
+### 📈 Currently learning / next up
+- Second Project Log summarizer by utilising AI and using data from Playingfield.
+- Open to backend intern / junior roles – let's chat!
+
+Feel free to ⭐ or fork my repos!
