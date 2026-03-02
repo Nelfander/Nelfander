@@ -12,7 +12,8 @@
     <a href="https://linkedin.com/in/kostas-efraimidis-872002162/">LinkedIn</a>
   </p>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=Nelfander&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nelfander&theme=radical" alt="Streak" />
 
 ### 🛠️ What I'm good at
 - **Backend**: Go (Echo, concurrency, WebSockets), PostgreSQL (sqlc), MinIO/S3
@@ -32,3 +33,4 @@ Real-time collaborative task manager (Kanban + chat + file storage)
 - Open to backend intern / junior roles – let's chat!
 
 Feel free to ⭐ or fork my repos!
+</div>
