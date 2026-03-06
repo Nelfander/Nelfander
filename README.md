@@ -5,9 +5,13 @@
   <p><strong>Hey, I'm Konstantinos, a CS Graduate & Backend Engineer specializing in Go, PostgreSQL, and Real-Time Systems.</strong> building real-time collaborative tools.<br>
  Leveraging a background in IT Operations and Customer Support, I bridge the gap between complex system architecture and user-centric reliability. Recently pivoted to specialized backend engineering, learning go for around 60 days while working on a full time job to architect and deploy Playingfield—a production-grade, WebSocket-driven collaboration platform. I focus on building scalable, domain-driven services that solve real-world synchronization challenges.</p>
 
+  <p>
+    <a href="https://d3tucazxq1wbf6.cloudfront.net">Live Demo: app.playingfield.com</a> • 
+    <a href="https://github.com/Nelfander/Playingfield">Flagship Project</a> • 
+    <a href="mailto:kwstasef@hotmail.com">Email</a> • 
+    <a href="https://linkedin.com/in/kostas-efraimidis-872002162/">LinkedIn</a>
+  </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nelfander&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nelfander&theme=radical" alt="Streak" />
 
 ### 🛠️ What I'm good at
 - **Backend**: Go (Echo, concurrency, WebSockets), PostgreSQL (sqlc), MinIO/S3
