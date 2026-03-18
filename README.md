@@ -22,7 +22,7 @@
 ### 🔥 Top Project
 **[Playingfield](https://github.com/Nelfander/Playingfield)**  
 Real-time collaborative task manager (Kanban + chat + file storage)  
-- Live: https://app.playingfield.com (sign up & test instantly)  
+- Live: [https://app.playingfield.com](https://d3tucazxq1wbf6.cloudfront.net) (sign up & test instantly)  
 - Features: RBAC, atomic uploads, Prometheus metrics, full Docker stack  
 - Built after just 2 months of learning Go while maintening full-time Job
 
