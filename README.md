@@ -26,7 +26,7 @@ Real-time collaborative task manager (Kanban + chat + file storage)
 - Features: RBAC, atomic uploads, Prometheus metrics, full Docker stack  
 - Built after just 2 months of learning Go while maintening full-time Job
 
-### 📈 Currently learning / next up
+### 📈 Currently learning / building
 - Second Project Log summarizer by utilising AI and using data from Playingfield.
 - Open to backend intern / junior roles – let's chat!
 
