@@ -3,7 +3,7 @@
   <h1>About me</h1>
   
   <p><strong>Hey, I'm Konstantinos, a CS Graduate & Backend Engineer specializing in Go, PostgreSQL, and Real-Time Systems.</strong> building real-time collaborative tools.<br>
- Leveraging a background in IT Operations and Customer Support, I bridge the gap between complex system architecture and user-centric reliability. Recently pivoted to specialized backend engineering, learning go for around 60 days while working on a full time job to architect and deploy Playingfield—a production-grade, WebSocket-driven collaboration platform. I focus on building scalable, domain-driven services that solve real-world synchronization challenges.</p>
+ Leveraging a background in IT Operations and Customer Support, I bridge the gap between complex system architecture and user-centric reliability. Recently pivoted to specialized backend engineering, learning go while working on a full time job to architect and deploy projects like Playingfield—a production-grade, WebSocket-driven collaboration platform and Losu a zero-dependency Go log analysis tool. I focus on building scalable, domain-driven services that solve real-world synchronization challenges.</p>
 
   <p>
     <a href="https://d3tucazxq1wbf6.cloudfront.net">Live Demo: app.playingfield.com</a> • 
