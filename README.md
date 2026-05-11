@@ -27,8 +27,9 @@ Real-time collaborative task manager (Kanban + chat + file storage)
 - Built after just 2 months of learning Go while maintening full-time Job
 
 ### 📈 Currently learning / building
+- Learning Python
 - Second Project Log summarizer by utilising AI and using data from Playingfield.
-- Open to backend intern / junior roles – let's chat!
+- Open to backend junior roles!
 
 Feel free to ⭐ or fork my repos!
 </div>
